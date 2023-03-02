@@ -1,12 +1,16 @@
 # scripts-for-react
 These three React scripts are designed to improve the efficiency, stability, and performance of a React project. 
 
-        General about the project
+ 
+ 
+# General about the project 
 
    The Dependency Checker and Updater Script checks for outdated dependencies in the project and automatically updates them to their latest versions, ensuring that the project is using the most up-to-date and secure dependencies. 
    The React Clean Up Script helps developers organize and optimize their project's file structure by removing unnecessary files and reducing the project's size, which can improve the project's performance. 
    Lastly, the Update React Libraries script automates the process of updating React libraries in a project and can also update other related libraries, ensuring that the project is always using the latest and most compatible libraries, which can improve the project's stability and performance. 
    All three scripts can save developers time and effort by automating processes that can be time-consuming and tedious if done manually.
+
+# About each of the scripts
 
     1)  Dependency Checker and Updater Script:
     
@@ -30,4 +34,10 @@ These three React scripts are designed to improve the efficiency, stability, and
     It scans through the project's package.json file, identifies any outdated React libraries, and updates them to their latest versions. 
     It can also update other related libraries that may have compatibility issues with the updated React library. 
     This script can help developers ensure that their React project is always using the latest and most compatible libraries, improving its stability and performance.
+
+# How to run the script
+
+1) be sure to drag the script you need into your project
+2) run the script
+3) enjoy
 
